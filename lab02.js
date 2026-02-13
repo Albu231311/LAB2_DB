@@ -33,3 +33,16 @@ db.usuarios.find(
     visitas:1,
   }
 ). sort({ vistas: -1 }) 
+
+db.usuarios.find(
+  {
+    "preferencias.color": "azul",
+    cantidad_amigos: { $gte: 1000, $lte: 2000 }
+  },
+  {
+    _id: 0,
+    nombre: 1,
+    "preferencias.color": 1,
+    cantidad_amigos: 1
+  }
+)

@@ -9,7 +9,7 @@ db.usuarios.find(
     activo: 1,
     puntos:1,
   }
-). sort({ puntos: -1 }) //el -1 es de mayor a menor, descendente
+). sort({ puntos: -1 }) 
 
 db.usuarios.find(
   {
@@ -21,3 +21,15 @@ db.usuarios.find(
     "historial_compras.producto": 1,
   }
 )
+
+db.usuarios.find(
+  {
+    tags: "tag2",
+    visitas: { $gt: 100 }},
+  {
+    _id: 0,
+    nombre: 1,
+    tags: 1,
+    visitas:1,
+  }
+). sort({ vistas: -1 }) 

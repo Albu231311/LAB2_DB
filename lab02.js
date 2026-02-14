@@ -1,3 +1,97 @@
+//1.1
+db.usuarios.drop();
+
+function randomString(length) {
+  var chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+  var result = "";
+  for (var i = 0; i < length; i++) {
+    result += chars.charAt(Math.floor(Math.random() * chars.length));
+  }
+  return result;
+}
+
+function randomDate(start, end) {
+  return new Date(
+    start.getTime() + Math.random() * (end.getTime() - start.getTime())
+  );
+}
+
+// Lista de colores reales
+var colores = [
+  "rojo", "azul", "verde", "amarillo", "morado",
+  "naranja", "rosado", "negro", "blanco", "gris",
+  "celeste", "turquesa", "dorado", "plateado", "café"
+];
+
+function randomColor() {
+  return colores[Math.floor(Math.random() * colores.length)];
+}
+
+print("Insertando 100,000 usuarios...");
+
+var batch = [];
+var batchSize = 1000;
+
+for (var i = 1; i <= 100000; i++) {
+
+  var misCompras = [];
+  var numCompras = Math.floor(Math.random() * 5) + 1;
+
+  for (var c = 0; c < numCompras; c++) {
+    misCompras.push({
+      producto: Math.random() > 0.3 
+        ? "Producto 1" 
+        : "Producto " + randomString(3),
+      fecha: randomDate(new Date(2024, 0, 1), new Date())
+    });
+  }
+
+  var misTags = ["tag1", "general"];
+  if (Math.random() > 0.4) {
+    misTags.push("tag2");
+  }
+
+  var numAmigos = Math.random() > 0.9
+    ? Math.floor(Math.random() * 1000) + 1001
+    : Math.floor(Math.random() * 500);
+
+  batch.push({
+    nombre: "Usuario " + i,
+    email: "user" + i + "@uvg.edu.gt",
+    fecha_registro: randomDate(new Date(2020, 0, 1), new Date()),
+    puntos: Math.floor(Math.random() * 1000),
+    historial_compras: misCompras,
+    direccion: {
+      calle: "Calle " + randomString(10),
+      ciudad: "Guatemala",
+      codigo_postal: Math.floor(Math.random() * 90000),
+    },
+    tags: misTags,
+    activo: Math.random() > 0.5,
+    notas: "Nota generada: " + randomString(10),
+    visitas: Math.floor(Math.random() * 200),
+    cantidad_amigos: numAmigos,
+    preferencias: {
+      color: randomColor(),  
+      idioma: "es",
+      tema: Math.random() > 0.5 ? "dark" : "light",
+    },
+  });
+
+  if (batch.length === batchSize) {
+    db.usuarios.insertMany(batch);
+    batch = [];
+  }
+}
+
+if (batch.length > 0) {
+  db.usuarios.insertMany(batch);
+}
+
+print("Proceso terminado.");
+print("Total insertados:", db.usuarios.countDocuments());
+
+
 //sección 1.2
 db.usuarios.find(
   {

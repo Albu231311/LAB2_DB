@@ -1,0 +1,3398 @@
+[
+  {
+    "cantidad_modelos": 1,
+    "brand": "Acura",
+    "year": 1988,
+    "precio_promedio": 24665.86
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Acura",
+    "year": 1995,
+    "precio_promedio": 29319.81
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Acura",
+    "year": 1996,
+    "precio_promedio": 25802.2
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Acura",
+    "year": 1997,
+    "precio_promedio": 22507.42
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Acura",
+    "year": 1998,
+    "precio_promedio": 21863.81
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Acura",
+    "year": 2001,
+    "precio_promedio": 25543.71
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Acura",
+    "year": 2002,
+    "precio_promedio": 25139.75
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Acura",
+    "year": 2004,
+    "precio_promedio": 23060.17
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Acura",
+    "year": 2008,
+    "precio_promedio": 26094.41
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Acura",
+    "year": 2009,
+    "precio_promedio": 23615.25
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Alfa Romeo",
+    "year": 1993,
+    "precio_promedio": 26263.49
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Aptera",
+    "year": 2009,
+    "precio_promedio": 27919.49
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Aston Martin",
+    "year": 2009,
+    "precio_promedio": 22266.78
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Aston Martin",
+    "year": 2010,
+    "precio_promedio": 26902.57
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Aston Martin",
+    "year": 2011,
+    "precio_promedio": 27220.13
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Aston Martin",
+    "year": 2012,
+    "precio_promedio": 25962.13
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Audi",
+    "year": 1986,
+    "precio_promedio": 22978.94
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Audi",
+    "year": 1988,
+    "precio_promedio": 22625.31
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Audi",
+    "year": 1990,
+    "precio_promedio": 21856.21
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Audi",
+    "year": 1992,
+    "precio_promedio": 20963.44
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Audi",
+    "year": 1994,
+    "precio_promedio": 21814.56
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Audi",
+    "year": 1995,
+    "precio_promedio": 22788.91
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Audi",
+    "year": 1996,
+    "precio_promedio": 26841.61
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Audi",
+    "year": 1997,
+    "precio_promedio": 26075.9
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Audi",
+    "year": 1998,
+    "precio_promedio": 28983.91
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Audi",
+    "year": 1999,
+    "precio_promedio": 27621.97
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Audi",
+    "year": 2002,
+    "precio_promedio": 26917.39
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Audi",
+    "year": 2004,
+    "precio_promedio": 29899.37
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Audi",
+    "year": 2005,
+    "precio_promedio": 28915.65
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Audi",
+    "year": 2008,
+    "precio_promedio": 22490.36
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Audi",
+    "year": 2011,
+    "precio_promedio": 21446.72
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "BMW",
+    "year": 1993,
+    "precio_promedio": 21557.26
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "BMW",
+    "year": 1994,
+    "precio_promedio": 24035.78
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "BMW",
+    "year": 1995,
+    "precio_promedio": 22054.36
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "BMW",
+    "year": 1996,
+    "precio_promedio": 22007.84
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "BMW",
+    "year": 1997,
+    "precio_promedio": 22374.82
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "BMW",
+    "year": 2000,
+    "precio_promedio": 24208.76
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "BMW",
+    "year": 2001,
+    "precio_promedio": 29183.36
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "BMW",
+    "year": 2002,
+    "precio_promedio": 21436.42
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "BMW",
+    "year": 2003,
+    "precio_promedio": 25021.28
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "BMW",
+    "year": 2004,
+    "precio_promedio": 22717.9
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "BMW",
+    "year": 2005,
+    "precio_promedio": 26825.58
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "BMW",
+    "year": 2006,
+    "precio_promedio": 21601.92
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "BMW",
+    "year": 2007,
+    "precio_promedio": 24409.6
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "BMW",
+    "year": 2008,
+    "precio_promedio": 29499.64
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "BMW",
+    "year": 2009,
+    "precio_promedio": 23070.48
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "BMW",
+    "year": 2010,
+    "precio_promedio": 20738.72
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "BMW",
+    "year": 2011,
+    "precio_promedio": 25477
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "BMW",
+    "year": 2013,
+    "precio_promedio": 22866.39
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Bentley",
+    "year": 2007,
+    "precio_promedio": 27687.72
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Bentley",
+    "year": 2008,
+    "precio_promedio": 24212.21
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Bentley",
+    "year": 2009,
+    "precio_promedio": 27784.08
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Bentley",
+    "year": 2010,
+    "precio_promedio": 29926.99
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Bentley",
+    "year": 2012,
+    "precio_promedio": 20313.3
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Bugatti",
+    "year": 2011,
+    "precio_promedio": 29993.77
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Buick",
+    "year": 1986,
+    "precio_promedio": 26589.58
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Buick",
+    "year": 1987,
+    "precio_promedio": 23219.99
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Buick",
+    "year": 1989,
+    "precio_promedio": 28214.83
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Buick",
+    "year": 1990,
+    "precio_promedio": 22921.76
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Buick",
+    "year": 1991,
+    "precio_promedio": 25041.22
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Buick",
+    "year": 1992,
+    "precio_promedio": 25883.57
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Buick",
+    "year": 1993,
+    "precio_promedio": 24974.88
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Buick",
+    "year": 1994,
+    "precio_promedio": 23863.16
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Buick",
+    "year": 1995,
+    "precio_promedio": 23419.94
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Buick",
+    "year": 1996,
+    "precio_promedio": 25163.93
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Buick",
+    "year": 1999,
+    "precio_promedio": 24898.17
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Buick",
+    "year": 2001,
+    "precio_promedio": 26519.22
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Buick",
+    "year": 2002,
+    "precio_promedio": 28976.64
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Buick",
+    "year": 2004,
+    "precio_promedio": 24898.2
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Buick",
+    "year": 2008,
+    "precio_promedio": 27803.23
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Buick",
+    "year": 2009,
+    "precio_promedio": 23443.56
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Buick",
+    "year": 2010,
+    "precio_promedio": 23917.69
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Cadillac",
+    "year": 1954,
+    "precio_promedio": 29745.21
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Cadillac",
+    "year": 1992,
+    "precio_promedio": 23201.02
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Cadillac",
+    "year": 1993,
+    "precio_promedio": 22018.01
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Cadillac",
+    "year": 1994,
+    "precio_promedio": 25458.72
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Cadillac",
+    "year": 1998,
+    "precio_promedio": 23257.29
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Cadillac",
+    "year": 1999,
+    "precio_promedio": 26510.32
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Cadillac",
+    "year": 2003,
+    "precio_promedio": 23761.45
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Cadillac",
+    "year": 2004,
+    "precio_promedio": 22125.21
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Cadillac",
+    "year": 2005,
+    "precio_promedio": 28126.8
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Cadillac",
+    "year": 2006,
+    "precio_promedio": 25042.43
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Cadillac",
+    "year": 2007,
+    "precio_promedio": 23355.11
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Cadillac",
+    "year": 2008,
+    "precio_promedio": 22797.72
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Cadillac",
+    "year": 2009,
+    "precio_promedio": 21105.12
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Cadillac",
+    "year": 2010,
+    "precio_promedio": 24649.43
+  },
+  {
+    "cantidad_modelos": 5,
+    "brand": "Cadillac",
+    "year": 2011,
+    "precio_promedio": 23324.38
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Chevrolet",
+    "year": 1957,
+    "precio_promedio": 23835.26
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Chevrolet",
+    "year": 1958,
+    "precio_promedio": 29393.58
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Chevrolet",
+    "year": 1971,
+    "precio_promedio": 23243.05
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Chevrolet",
+    "year": 1980,
+    "precio_promedio": 24414.74
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Chevrolet",
+    "year": 1985,
+    "precio_promedio": 24846.72
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Chevrolet",
+    "year": 1992,
+    "precio_promedio": 20435.76
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Chevrolet",
+    "year": 1993,
+    "precio_promedio": 22781.07
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Chevrolet",
+    "year": 1994,
+    "precio_promedio": 25319.9
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Chevrolet",
+    "year": 1996,
+    "precio_promedio": 26348.97
+  },
+  {
+    "cantidad_modelos": 5,
+    "brand": "Chevrolet",
+    "year": 1998,
+    "precio_promedio": 28254.35
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Chevrolet",
+    "year": 1999,
+    "precio_promedio": 20444.39
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Chevrolet",
+    "year": 2000,
+    "precio_promedio": 24152.46
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Chevrolet",
+    "year": 2002,
+    "precio_promedio": 24157.28
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Chevrolet",
+    "year": 2003,
+    "precio_promedio": 26260.25
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Chevrolet",
+    "year": 2004,
+    "precio_promedio": 21761.13
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Chevrolet",
+    "year": 2005,
+    "precio_promedio": 29687.41
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Chevrolet",
+    "year": 2006,
+    "precio_promedio": 27640.52
+  },
+  {
+    "cantidad_modelos": 5,
+    "brand": "Chevrolet",
+    "year": 2007,
+    "precio_promedio": 25414.55
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Chevrolet",
+    "year": 2008,
+    "precio_promedio": 24854.72
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Chevrolet",
+    "year": 2009,
+    "precio_promedio": 24005.06
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Chevrolet",
+    "year": 2010,
+    "precio_promedio": 24486.36
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Chevrolet",
+    "year": 2011,
+    "precio_promedio": 29488.44
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Chevrolet",
+    "year": 2012,
+    "precio_promedio": 22358.65
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Chrysler",
+    "year": 1926,
+    "precio_promedio": 28945.5
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Chrysler",
+    "year": 1992,
+    "precio_promedio": 21588.15
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Chrysler",
+    "year": 1993,
+    "precio_promedio": 21083.69
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Chrysler",
+    "year": 1996,
+    "precio_promedio": 22691.96
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Chrysler",
+    "year": 2001,
+    "precio_promedio": 21276.96
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Chrysler",
+    "year": 2005,
+    "precio_promedio": 26665.97
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Chrysler",
+    "year": 2006,
+    "precio_promedio": 29982.4
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Chrysler",
+    "year": 2008,
+    "precio_promedio": 27183.25
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Chrysler",
+    "year": 2009,
+    "precio_promedio": 25977.9
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Citroën",
+    "year": 1972,
+    "precio_promedio": 22409.73
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Citroën",
+    "year": 1989,
+    "precio_promedio": 22005.65
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Daewoo",
+    "year": 2002,
+    "precio_promedio": 28611.61
+  },
+  {
+    "cantidad_modelos": 5,
+    "brand": "Dodge",
+    "year": 1992,
+    "precio_promedio": 26203.51
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Dodge",
+    "year": 1993,
+    "precio_promedio": 25740.2
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Dodge",
+    "year": 1994,
+    "precio_promedio": 24574.2
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Dodge",
+    "year": 1995,
+    "precio_promedio": 23661.35
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Dodge",
+    "year": 1996,
+    "precio_promedio": 24142.72
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Dodge",
+    "year": 1997,
+    "precio_promedio": 27556.86
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Dodge",
+    "year": 1998,
+    "precio_promedio": 28018.41
+  },
+  {
+    "cantidad_modelos": 6,
+    "brand": "Dodge",
+    "year": 1999,
+    "precio_promedio": 23678.64
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Dodge",
+    "year": 2000,
+    "precio_promedio": 27175.64
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Dodge",
+    "year": 2001,
+    "precio_promedio": 25896.8
+  },
+  {
+    "cantidad_modelos": 7,
+    "brand": "Dodge",
+    "year": 2003,
+    "precio_promedio": 25140
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Dodge",
+    "year": 2006,
+    "precio_promedio": 27240.35
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Dodge",
+    "year": 2007,
+    "precio_promedio": 27345.75
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Dodge",
+    "year": 2010,
+    "precio_promedio": 23271.38
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Dodge",
+    "year": 2012,
+    "precio_promedio": 22723.41
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Ferrari",
+    "year": 2007,
+    "precio_promedio": 28407.91
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Ferrari",
+    "year": 2009,
+    "precio_promedio": 21071.6
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Ford",
+    "year": 1966,
+    "precio_promedio": 26269.41
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Ford",
+    "year": 1972,
+    "precio_promedio": 25585.39
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Ford",
+    "year": 1980,
+    "precio_promedio": 22420.65
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Ford",
+    "year": 1984,
+    "precio_promedio": 26346.21
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Ford",
+    "year": 1985,
+    "precio_promedio": 26630.39
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Ford",
+    "year": 1986,
+    "precio_promedio": 23786.77
+  },
+  {
+    "cantidad_modelos": 5,
+    "brand": "Ford",
+    "year": 1987,
+    "precio_promedio": 25988.99
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Ford",
+    "year": 1989,
+    "precio_promedio": 23282.61
+  },
+  {
+    "cantidad_modelos": 5,
+    "brand": "Ford",
+    "year": 1990,
+    "precio_promedio": 24843.19
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Ford",
+    "year": 1991,
+    "precio_promedio": 29493.53
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Ford",
+    "year": 1992,
+    "precio_promedio": 26799.67
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Ford",
+    "year": 1993,
+    "precio_promedio": 26432.99
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Ford",
+    "year": 1994,
+    "precio_promedio": 24919.77
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Ford",
+    "year": 1995,
+    "precio_promedio": 24694.03
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Ford",
+    "year": 1996,
+    "precio_promedio": 23621.17
+  },
+  {
+    "cantidad_modelos": 6,
+    "brand": "Ford",
+    "year": 1997,
+    "precio_promedio": 24171.86
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Ford",
+    "year": 1998,
+    "precio_promedio": 25206.99
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Ford",
+    "year": 1999,
+    "precio_promedio": 25652.06
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Ford",
+    "year": 2000,
+    "precio_promedio": 28350.87
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Ford",
+    "year": 2001,
+    "precio_promedio": 23857.89
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Ford",
+    "year": 2002,
+    "precio_promedio": 27152.79
+  },
+  {
+    "cantidad_modelos": 6,
+    "brand": "Ford",
+    "year": 2003,
+    "precio_promedio": 27748.49
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Ford",
+    "year": 2004,
+    "precio_promedio": 23577.22
+  },
+  {
+    "cantidad_modelos": 6,
+    "brand": "Ford",
+    "year": 2005,
+    "precio_promedio": 25335.23
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Ford",
+    "year": 2006,
+    "precio_promedio": 25496.19
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Ford",
+    "year": 2007,
+    "precio_promedio": 24144.91
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Ford",
+    "year": 2008,
+    "precio_promedio": 26575
+  },
+  {
+    "cantidad_modelos": 6,
+    "brand": "Ford",
+    "year": 2009,
+    "precio_promedio": 25358.62
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Ford",
+    "year": 2010,
+    "precio_promedio": 22815.59
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Ford",
+    "year": 2011,
+    "precio_promedio": 26189.47
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Ford",
+    "year": 2012,
+    "precio_promedio": 21814.99
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Ford",
+    "year": 2013,
+    "precio_promedio": 27803.22
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "GMC",
+    "year": 1992,
+    "precio_promedio": 23644.22
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "GMC",
+    "year": 1993,
+    "precio_promedio": 23549.02
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "GMC",
+    "year": 1994,
+    "precio_promedio": 25095.36
+  },
+  {
+    "cantidad_modelos": 5,
+    "brand": "GMC",
+    "year": 1996,
+    "precio_promedio": 24394.37
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "GMC",
+    "year": 1997,
+    "precio_promedio": 20236.8
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "GMC",
+    "year": 1998,
+    "precio_promedio": 23410.88
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "GMC",
+    "year": 2000,
+    "precio_promedio": 23096.95
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "GMC",
+    "year": 2001,
+    "precio_promedio": 28920.69
+  },
+  {
+    "cantidad_modelos": 5,
+    "brand": "GMC",
+    "year": 2002,
+    "precio_promedio": 23536.31
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "GMC",
+    "year": 2004,
+    "precio_promedio": 24569.92
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "GMC",
+    "year": 2005,
+    "precio_promedio": 25125.86
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "GMC",
+    "year": 2006,
+    "precio_promedio": 21704.89
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "GMC",
+    "year": 2007,
+    "precio_promedio": 25557.59
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "GMC",
+    "year": 2009,
+    "precio_promedio": 21439.03
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "GMC",
+    "year": 2010,
+    "precio_promedio": 25420.28
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "GMC",
+    "year": 2011,
+    "precio_promedio": 25283.15
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "GMC",
+    "year": 2012,
+    "precio_promedio": 22675.99
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Geo",
+    "year": 1993,
+    "precio_promedio": 25480.08
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Honda",
+    "year": 1989,
+    "precio_promedio": 20348.71
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Honda",
+    "year": 1990,
+    "precio_promedio": 23767.01
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Honda",
+    "year": 1996,
+    "precio_promedio": 25587.6
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Honda",
+    "year": 1999,
+    "precio_promedio": 28700.69
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Honda",
+    "year": 2001,
+    "precio_promedio": 24362.82
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Honda",
+    "year": 2002,
+    "precio_promedio": 25199.47
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Honda",
+    "year": 2003,
+    "precio_promedio": 27827.04
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Honda",
+    "year": 2004,
+    "precio_promedio": 21800.18
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Honda",
+    "year": 2005,
+    "precio_promedio": 21416.8
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Honda",
+    "year": 2006,
+    "precio_promedio": 29238.54
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Honda",
+    "year": 2007,
+    "precio_promedio": 26394.02
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Honda",
+    "year": 2008,
+    "precio_promedio": 25396.31
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Honda",
+    "year": 2009,
+    "precio_promedio": 21714.99
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Honda",
+    "year": 2010,
+    "precio_promedio": 25738.78
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Honda",
+    "year": 2011,
+    "precio_promedio": 25129.01
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Honda",
+    "year": 2012,
+    "precio_promedio": 28498.67
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Hummer",
+    "year": 2009,
+    "precio_promedio": 21489.93
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Hummer",
+    "year": 2010,
+    "precio_promedio": 20782.85
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Hyundai",
+    "year": 1992,
+    "precio_promedio": 23095.57
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Hyundai",
+    "year": 1993,
+    "precio_promedio": 20884.95
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Hyundai",
+    "year": 1994,
+    "precio_promedio": 24876.12
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Hyundai",
+    "year": 2000,
+    "precio_promedio": 20785.41
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Hyundai",
+    "year": 2003,
+    "precio_promedio": 24130.09
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Hyundai",
+    "year": 2007,
+    "precio_promedio": 27140.36
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Hyundai",
+    "year": 2008,
+    "precio_promedio": 25673.67
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Hyundai",
+    "year": 2009,
+    "precio_promedio": 24984.43
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Hyundai",
+    "year": 2011,
+    "precio_promedio": 20437.16
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Hyundai",
+    "year": 2013,
+    "precio_promedio": 22940.26
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Infiniti",
+    "year": 1994,
+    "precio_promedio": 24508.58
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Infiniti",
+    "year": 2001,
+    "precio_promedio": 24731.5
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Infiniti",
+    "year": 2003,
+    "precio_promedio": 23350.97
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Infiniti",
+    "year": 2004,
+    "precio_promedio": 22607.7
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Infiniti",
+    "year": 2005,
+    "precio_promedio": 23905.61
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Infiniti",
+    "year": 2006,
+    "precio_promedio": 24541.79
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Infiniti",
+    "year": 2007,
+    "precio_promedio": 23177.53
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Infiniti",
+    "year": 2008,
+    "precio_promedio": 24702.6
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Infiniti",
+    "year": 2009,
+    "precio_promedio": 23757.41
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Infiniti",
+    "year": 2010,
+    "precio_promedio": 27521.14
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Infiniti",
+    "year": 2011,
+    "precio_promedio": 23641.64
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Infiniti",
+    "year": 2012,
+    "precio_promedio": 23901.49
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Isuzu",
+    "year": 1993,
+    "precio_promedio": 25552.05
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Isuzu",
+    "year": 1996,
+    "precio_promedio": 21888.54
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Isuzu",
+    "year": 1997,
+    "precio_promedio": 26631.68
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Isuzu",
+    "year": 1998,
+    "precio_promedio": 22915.56
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Isuzu",
+    "year": 1999,
+    "precio_promedio": 29842.58
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Isuzu",
+    "year": 2000,
+    "precio_promedio": 24735.16
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Isuzu",
+    "year": 2002,
+    "precio_promedio": 28720.97
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Isuzu",
+    "year": 2004,
+    "precio_promedio": 24008.93
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Jaguar",
+    "year": 2001,
+    "precio_promedio": 26316.64
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Jaguar",
+    "year": 2002,
+    "precio_promedio": 28748.64
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Jaguar",
+    "year": 2006,
+    "precio_promedio": 28818.7
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Jaguar",
+    "year": 2009,
+    "precio_promedio": 20288.11
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Jaguar",
+    "year": 2010,
+    "precio_promedio": 21664.36
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Jeep",
+    "year": 1992,
+    "precio_promedio": 24041.74
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Jeep",
+    "year": 1994,
+    "precio_promedio": 22124.41
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Jeep",
+    "year": 2000,
+    "precio_promedio": 23594.43
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Jeep",
+    "year": 2001,
+    "precio_promedio": 27171.8
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Jeep",
+    "year": 2007,
+    "precio_promedio": 21373.56
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Jeep",
+    "year": 2009,
+    "precio_promedio": 29322.28
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Jeep",
+    "year": 2010,
+    "precio_promedio": 26883.49
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Jeep",
+    "year": 2012,
+    "precio_promedio": 25409.44
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Kia",
+    "year": 1995,
+    "precio_promedio": 21550.42
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Kia",
+    "year": 1996,
+    "precio_promedio": 21196.88
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Kia",
+    "year": 1997,
+    "precio_promedio": 25147.85
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Kia",
+    "year": 2000,
+    "precio_promedio": 28558.43
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Kia",
+    "year": 2001,
+    "precio_promedio": 21642.65
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Kia",
+    "year": 2004,
+    "precio_promedio": 22465.1
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Kia",
+    "year": 2005,
+    "precio_promedio": 22996.83
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Kia",
+    "year": 2006,
+    "precio_promedio": 22265.83
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Kia",
+    "year": 2007,
+    "precio_promedio": 22532
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Kia",
+    "year": 2008,
+    "precio_promedio": 29616.09
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Kia",
+    "year": 2009,
+    "precio_promedio": 24522.47
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Kia",
+    "year": 2012,
+    "precio_promedio": 22270.75
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Kia",
+    "year": 2013,
+    "precio_promedio": 20446.98
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lamborghini",
+    "year": 1988,
+    "precio_promedio": 25002.05
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lamborghini",
+    "year": 1994,
+    "precio_promedio": 22281.76
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lamborghini",
+    "year": 1997,
+    "precio_promedio": 25733.11
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lamborghini",
+    "year": 2002,
+    "precio_promedio": 24535.37
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lamborghini",
+    "year": 2003,
+    "precio_promedio": 22729.05
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lamborghini",
+    "year": 2006,
+    "precio_promedio": 23565.68
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Lamborghini",
+    "year": 2008,
+    "precio_promedio": 27007.92
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lamborghini",
+    "year": 2010,
+    "precio_promedio": 23594.76
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Land Rover",
+    "year": 1989,
+    "precio_promedio": 25799.07
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Land Rover",
+    "year": 1990,
+    "precio_promedio": 22522.66
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Land Rover",
+    "year": 1992,
+    "precio_promedio": 29139.69
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Land Rover",
+    "year": 1993,
+    "precio_promedio": 25642.54
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Land Rover",
+    "year": 1994,
+    "precio_promedio": 21835.22
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Land Rover",
+    "year": 1995,
+    "precio_promedio": 21330.95
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Land Rover",
+    "year": 1997,
+    "precio_promedio": 21433.74
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Land Rover",
+    "year": 1998,
+    "precio_promedio": 29173.14
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Land Rover",
+    "year": 2002,
+    "precio_promedio": 26333.87
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Land Rover",
+    "year": 2009,
+    "precio_promedio": 26281.66
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Land Rover",
+    "year": 2012,
+    "precio_promedio": 27101.85
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lexus",
+    "year": 1989,
+    "precio_promedio": 23662.73
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lexus",
+    "year": 1991,
+    "precio_promedio": 22879.73
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lexus",
+    "year": 1994,
+    "precio_promedio": 20077.02
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Lexus",
+    "year": 2000,
+    "precio_promedio": 26182.47
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lexus",
+    "year": 2003,
+    "precio_promedio": 24219.86
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Lexus",
+    "year": 2004,
+    "precio_promedio": 26758.57
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lexus",
+    "year": 2005,
+    "precio_promedio": 23948.4
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lexus",
+    "year": 2006,
+    "precio_promedio": 20624.73
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Lexus",
+    "year": 2009,
+    "precio_promedio": 24052.15
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Lexus",
+    "year": 2010,
+    "precio_promedio": 23456.86
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Lexus",
+    "year": 2011,
+    "precio_promedio": 24410.38
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lexus",
+    "year": 2013,
+    "precio_promedio": 29875.39
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lincoln",
+    "year": 1988,
+    "precio_promedio": 24824.65
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lincoln",
+    "year": 1990,
+    "precio_promedio": 24206.11
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lincoln",
+    "year": 1991,
+    "precio_promedio": 21377.54
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lincoln",
+    "year": 1996,
+    "precio_promedio": 26388.19
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lincoln",
+    "year": 1998,
+    "precio_promedio": 29849.33
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lincoln",
+    "year": 2000,
+    "precio_promedio": 20711.51
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lincoln",
+    "year": 2007,
+    "precio_promedio": 25434.73
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lincoln",
+    "year": 2008,
+    "precio_promedio": 23782.57
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Lincoln",
+    "year": 2012,
+    "precio_promedio": 25844.77
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Lotus",
+    "year": 2004,
+    "precio_promedio": 23521.88
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lotus",
+    "year": 2006,
+    "precio_promedio": 26395.94
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lotus",
+    "year": 2008,
+    "precio_promedio": 22347.61
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lotus",
+    "year": 2009,
+    "precio_promedio": 27212.4
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Lotus",
+    "year": 2012,
+    "precio_promedio": 26463.58
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "MINI",
+    "year": 2008,
+    "precio_promedio": 25597.01
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "MINI",
+    "year": 2011,
+    "precio_promedio": 24139.4
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "MINI",
+    "year": 2012,
+    "precio_promedio": 26755.12
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Maserati",
+    "year": 1986,
+    "precio_promedio": 22263.85
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Maserati",
+    "year": 1989,
+    "precio_promedio": 21002.83
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Maserati",
+    "year": 1990,
+    "precio_promedio": 23254.57
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Maserati",
+    "year": 2007,
+    "precio_promedio": 28607.16
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Maybach",
+    "year": 2005,
+    "precio_promedio": 28711.5
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Maybach",
+    "year": 2011,
+    "precio_promedio": 21929.66
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mazda",
+    "year": 1986,
+    "precio_promedio": 24776.1
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mazda",
+    "year": 1987,
+    "precio_promedio": 22579.13
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mazda",
+    "year": 1991,
+    "precio_promedio": 26438.73
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Mazda",
+    "year": 1992,
+    "precio_promedio": 23444.33
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mazda",
+    "year": 1993,
+    "precio_promedio": 21661.18
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Mazda",
+    "year": 1994,
+    "precio_promedio": 26672.87
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Mazda",
+    "year": 1995,
+    "precio_promedio": 23714.5
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mazda",
+    "year": 1996,
+    "precio_promedio": 28400.35
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Mazda",
+    "year": 1997,
+    "precio_promedio": 24366.22
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Mazda",
+    "year": 2001,
+    "precio_promedio": 24317.15
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mazda",
+    "year": 2003,
+    "precio_promedio": 27332.5
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mazda",
+    "year": 2004,
+    "precio_promedio": 20235.85
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mazda",
+    "year": 2006,
+    "precio_promedio": 24017.58
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mazda",
+    "year": 2008,
+    "precio_promedio": 26292.9
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mazda",
+    "year": 2010,
+    "precio_promedio": 23191.31
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mazda",
+    "year": 2012,
+    "precio_promedio": 21323.93
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mercedes-Benz",
+    "year": 1986,
+    "precio_promedio": 23852.72
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mercedes-Benz",
+    "year": 1989,
+    "precio_promedio": 29455.24
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mercedes-Benz",
+    "year": 1992,
+    "precio_promedio": 20725.84
+  },
+  {
+    "cantidad_modelos": 5,
+    "brand": "Mercedes-Benz",
+    "year": 1993,
+    "precio_promedio": 25347.48
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mercedes-Benz",
+    "year": 1998,
+    "precio_promedio": 25441.86
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mercedes-Benz",
+    "year": 1999,
+    "precio_promedio": 20041.44
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mercedes-Benz",
+    "year": 2000,
+    "precio_promedio": 21902.45
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mercedes-Benz",
+    "year": 2001,
+    "precio_promedio": 20463.34
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mercedes-Benz",
+    "year": 2002,
+    "precio_promedio": 26893.12
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mercedes-Benz",
+    "year": 2003,
+    "precio_promedio": 24101.39
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mercedes-Benz",
+    "year": 2004,
+    "precio_promedio": 25625.68
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mercedes-Benz",
+    "year": 2005,
+    "precio_promedio": 29437.95
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mercedes-Benz",
+    "year": 2006,
+    "precio_promedio": 28911.06
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mercedes-Benz",
+    "year": 2008,
+    "precio_promedio": 23260.94
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mercedes-Benz",
+    "year": 2009,
+    "precio_promedio": 28472.75
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mercedes-Benz",
+    "year": 2010,
+    "precio_promedio": 24389.35
+  },
+  {
+    "cantidad_modelos": 8,
+    "brand": "Mercedes-Benz",
+    "year": 2011,
+    "precio_promedio": 24640.86
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Mercedes-Benz",
+    "year": 2012,
+    "precio_promedio": 23858.95
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mercury",
+    "year": 1967,
+    "precio_promedio": 21835.45
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mercury",
+    "year": 1984,
+    "precio_promedio": 29815.99
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Mercury",
+    "year": 1986,
+    "precio_promedio": 24485.87
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mercury",
+    "year": 1987,
+    "precio_promedio": 20339.09
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mercury",
+    "year": 1989,
+    "precio_promedio": 27680.85
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mercury",
+    "year": 1990,
+    "precio_promedio": 24100.86
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mercury",
+    "year": 1991,
+    "precio_promedio": 24649
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mercury",
+    "year": 1992,
+    "precio_promedio": 22417.63
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mercury",
+    "year": 1993,
+    "precio_promedio": 20998.11
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mercury",
+    "year": 1994,
+    "precio_promedio": 26231.15
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mercury",
+    "year": 1995,
+    "precio_promedio": 22386.79
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mercury",
+    "year": 1996,
+    "precio_promedio": 22865.73
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mercury",
+    "year": 1997,
+    "precio_promedio": 25920.91
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mercury",
+    "year": 2000,
+    "precio_promedio": 20979.64
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mercury",
+    "year": 2001,
+    "precio_promedio": 27280.7
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mercury",
+    "year": 2003,
+    "precio_promedio": 25697.55
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mercury",
+    "year": 2004,
+    "precio_promedio": 24322.43
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mercury",
+    "year": 2005,
+    "precio_promedio": 29763.56
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mercury",
+    "year": 2006,
+    "precio_promedio": 24612.44
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mercury",
+    "year": 2007,
+    "precio_promedio": 25477.48
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mercury",
+    "year": 2008,
+    "precio_promedio": 28916.85
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mercury",
+    "year": 2009,
+    "precio_promedio": 21475.22
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mitsubishi",
+    "year": 1984,
+    "precio_promedio": 25080.28
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mitsubishi",
+    "year": 1985,
+    "precio_promedio": 25733.36
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mitsubishi",
+    "year": 1986,
+    "precio_promedio": 23861.59
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Mitsubishi",
+    "year": 1988,
+    "precio_promedio": 23572.03
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mitsubishi",
+    "year": 1989,
+    "precio_promedio": 29100.24
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mitsubishi",
+    "year": 1990,
+    "precio_promedio": 24732
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Mitsubishi",
+    "year": 1991,
+    "precio_promedio": 25413.45
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mitsubishi",
+    "year": 1992,
+    "precio_promedio": 25638.76
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Mitsubishi",
+    "year": 1994,
+    "precio_promedio": 25690.36
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Mitsubishi",
+    "year": 1995,
+    "precio_promedio": 24241.2
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mitsubishi",
+    "year": 1996,
+    "precio_promedio": 25214.07
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mitsubishi",
+    "year": 1997,
+    "precio_promedio": 24682.83
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mitsubishi",
+    "year": 1998,
+    "precio_promedio": 22710.62
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mitsubishi",
+    "year": 1999,
+    "precio_promedio": 22838.83
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Mitsubishi",
+    "year": 2000,
+    "precio_promedio": 23495.49
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Mitsubishi",
+    "year": 2001,
+    "precio_promedio": 27057.71
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Mitsubishi",
+    "year": 2003,
+    "precio_promedio": 25011.21
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Mitsubishi",
+    "year": 2004,
+    "precio_promedio": 26847.89
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mitsubishi",
+    "year": 2005,
+    "precio_promedio": 20578.56
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mitsubishi",
+    "year": 2006,
+    "precio_promedio": 24602.22
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Mitsubishi",
+    "year": 2009,
+    "precio_promedio": 29295.15
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Morgan",
+    "year": 2008,
+    "precio_promedio": 21065.1
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Nissan",
+    "year": 1990,
+    "precio_promedio": 20863.67
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Nissan",
+    "year": 1992,
+    "precio_promedio": 24211.07
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Nissan",
+    "year": 1993,
+    "precio_promedio": 25419.31
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Nissan",
+    "year": 1994,
+    "precio_promedio": 22294.06
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Nissan",
+    "year": 1997,
+    "precio_promedio": 24044.5
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Nissan",
+    "year": 1998,
+    "precio_promedio": 23826.24
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Nissan",
+    "year": 2000,
+    "precio_promedio": 24910.59
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Nissan",
+    "year": 2001,
+    "precio_promedio": 26679.39
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Nissan",
+    "year": 2002,
+    "precio_promedio": 27704.03
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Nissan",
+    "year": 2003,
+    "precio_promedio": 26441.31
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Nissan",
+    "year": 2004,
+    "precio_promedio": 26779.39
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Nissan",
+    "year": 2006,
+    "precio_promedio": 27931.03
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Nissan",
+    "year": 2008,
+    "precio_promedio": 24991
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Nissan",
+    "year": 2009,
+    "precio_promedio": 26022.49
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Nissan",
+    "year": 2010,
+    "precio_promedio": 25695.44
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Nissan",
+    "year": 2011,
+    "precio_promedio": 27277.09
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Nissan",
+    "year": 2012,
+    "precio_promedio": 25282.69
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Oldsmobile",
+    "year": 1993,
+    "precio_promedio": 28726.6
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Oldsmobile",
+    "year": 1994,
+    "precio_promedio": 20065.66
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Oldsmobile",
+    "year": 1995,
+    "precio_promedio": 20464.66
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Oldsmobile",
+    "year": 1996,
+    "precio_promedio": 20260.17
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Oldsmobile",
+    "year": 1997,
+    "precio_promedio": 26793.63
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Oldsmobile",
+    "year": 2002,
+    "precio_promedio": 24813.67
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Panoz",
+    "year": 2007,
+    "precio_promedio": 20641.37
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Plymouth",
+    "year": 1976,
+    "precio_promedio": 28018.54
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Plymouth",
+    "year": 1981,
+    "precio_promedio": 20900.27
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Plymouth",
+    "year": 1985,
+    "precio_promedio": 25162.26
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Plymouth",
+    "year": 1992,
+    "precio_promedio": 27906.76
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Plymouth",
+    "year": 1993,
+    "precio_promedio": 24420.14
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Plymouth",
+    "year": 1994,
+    "precio_promedio": 21397.22
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Plymouth",
+    "year": 1995,
+    "precio_promedio": 27120.06
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Plymouth",
+    "year": 1998,
+    "precio_promedio": 25124.44
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Pontiac",
+    "year": 1962,
+    "precio_promedio": 23078.24
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Pontiac",
+    "year": 1965,
+    "precio_promedio": 22538.09
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Pontiac",
+    "year": 1966,
+    "precio_promedio": 26020.89
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Pontiac",
+    "year": 1981,
+    "precio_promedio": 28303.81
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Pontiac",
+    "year": 1984,
+    "precio_promedio": 25202.88
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Pontiac",
+    "year": 1985,
+    "precio_promedio": 25253.81
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Pontiac",
+    "year": 1986,
+    "precio_promedio": 28091.05
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Pontiac",
+    "year": 1987,
+    "precio_promedio": 24751.66
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Pontiac",
+    "year": 1988,
+    "precio_promedio": 23001.83
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Pontiac",
+    "year": 1989,
+    "precio_promedio": 20193.66
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Pontiac",
+    "year": 1991,
+    "precio_promedio": 24084.71
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Pontiac",
+    "year": 1992,
+    "precio_promedio": 21907.72
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Pontiac",
+    "year": 1994,
+    "precio_promedio": 28452.03
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Pontiac",
+    "year": 1995,
+    "precio_promedio": 23572.62
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Pontiac",
+    "year": 1997,
+    "precio_promedio": 24184.77
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Pontiac",
+    "year": 1998,
+    "precio_promedio": 27369.11
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Pontiac",
+    "year": 1999,
+    "precio_promedio": 20139.23
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Pontiac",
+    "year": 2000,
+    "precio_promedio": 25407.97
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Pontiac",
+    "year": 2001,
+    "precio_promedio": 25657.96
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Pontiac",
+    "year": 2003,
+    "precio_promedio": 25358.26
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Pontiac",
+    "year": 2005,
+    "precio_promedio": 20452.61
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Pontiac",
+    "year": 2006,
+    "precio_promedio": 28482.38
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Pontiac",
+    "year": 2007,
+    "precio_promedio": 24010.62
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Pontiac",
+    "year": 2009,
+    "precio_promedio": 22706.33
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Pontiac",
+    "year": 2010,
+    "precio_promedio": 25035.49
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Porsche",
+    "year": 1970,
+    "precio_promedio": 28741.51
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Porsche",
+    "year": 1983,
+    "precio_promedio": 22529.83
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Porsche",
+    "year": 1985,
+    "precio_promedio": 25971.29
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Porsche",
+    "year": 1992,
+    "precio_promedio": 20844.27
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Porsche",
+    "year": 1995,
+    "precio_promedio": 26908.93
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Porsche",
+    "year": 2003,
+    "precio_promedio": 25625.79
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Porsche",
+    "year": 2007,
+    "precio_promedio": 28074.3
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Porsche",
+    "year": 2008,
+    "precio_promedio": 25375.72
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Porsche",
+    "year": 2010,
+    "precio_promedio": 27386.83
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Porsche",
+    "year": 2013,
+    "precio_promedio": 24580.79
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Ram",
+    "year": 2011,
+    "precio_promedio": 25398.89
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Ram",
+    "year": 2012,
+    "precio_promedio": 24496.4
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Rambler",
+    "year": 1963,
+    "precio_promedio": 27527.69
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Rolls-Royce",
+    "year": 2007,
+    "precio_promedio": 21240.61
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Saab",
+    "year": 1984,
+    "precio_promedio": 29911.61
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Saab",
+    "year": 1986,
+    "precio_promedio": 24581.43
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Saab",
+    "year": 1991,
+    "precio_promedio": 25447.34
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Saab",
+    "year": 1999,
+    "precio_promedio": 29670.84
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Saab",
+    "year": 2002,
+    "precio_promedio": 21184.38
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Saab",
+    "year": 2005,
+    "precio_promedio": 23898.17
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Saab",
+    "year": 2006,
+    "precio_promedio": 24776.36
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Saturn",
+    "year": 1994,
+    "precio_promedio": 26032.82
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Saturn",
+    "year": 1997,
+    "precio_promedio": 24526.3
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Saturn",
+    "year": 1998,
+    "precio_promedio": 20517.13
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Saturn",
+    "year": 2003,
+    "precio_promedio": 24319.09
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Saturn",
+    "year": 2005,
+    "precio_promedio": 21790.06
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Saturn",
+    "year": 2006,
+    "precio_promedio": 28099.11
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Saturn",
+    "year": 2008,
+    "precio_promedio": 29645.86
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Scion",
+    "year": 2006,
+    "precio_promedio": 20640.38
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Scion",
+    "year": 2012,
+    "precio_promedio": 26259.49
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Shelby",
+    "year": 1968,
+    "precio_promedio": 20887.08
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Spyker",
+    "year": 2006,
+    "precio_promedio": 22937.77
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Subaru",
+    "year": 1985,
+    "precio_promedio": 20931.37
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Subaru",
+    "year": 1990,
+    "precio_promedio": 21128.9
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Subaru",
+    "year": 1992,
+    "precio_promedio": 21838.68
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Subaru",
+    "year": 1993,
+    "precio_promedio": 24012.3
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Subaru",
+    "year": 1994,
+    "precio_promedio": 25007.23
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Subaru",
+    "year": 1998,
+    "precio_promedio": 21498.6
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Subaru",
+    "year": 1999,
+    "precio_promedio": 25308.9
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Subaru",
+    "year": 2000,
+    "precio_promedio": 24689.35
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Subaru",
+    "year": 2001,
+    "precio_promedio": 27084.57
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Subaru",
+    "year": 2002,
+    "precio_promedio": 23806.16
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Subaru",
+    "year": 2003,
+    "precio_promedio": 26030.11
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Subaru",
+    "year": 2004,
+    "precio_promedio": 26101.36
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Subaru",
+    "year": 2005,
+    "precio_promedio": 24920.29
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Subaru",
+    "year": 2006,
+    "precio_promedio": 23410.56
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Subaru",
+    "year": 2007,
+    "precio_promedio": 25000.23
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Subaru",
+    "year": 2009,
+    "precio_promedio": 22687.29
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Subaru",
+    "year": 2011,
+    "precio_promedio": 24663.87
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Subaru",
+    "year": 2012,
+    "precio_promedio": 25335.66
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Suzuki",
+    "year": 1985,
+    "precio_promedio": 24736.45
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Suzuki",
+    "year": 1993,
+    "precio_promedio": 28837.36
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Suzuki",
+    "year": 1997,
+    "precio_promedio": 22662.31
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Suzuki",
+    "year": 2001,
+    "precio_promedio": 27532.69
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Suzuki",
+    "year": 2002,
+    "precio_promedio": 25751.68
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Suzuki",
+    "year": 2004,
+    "precio_promedio": 27378.63
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Suzuki",
+    "year": 2005,
+    "precio_promedio": 28999.38
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Suzuki",
+    "year": 2006,
+    "precio_promedio": 21114.12
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Suzuki",
+    "year": 2007,
+    "precio_promedio": 23259.97
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Suzuki",
+    "year": 2009,
+    "precio_promedio": 23767.35
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Suzuki",
+    "year": 2010,
+    "precio_promedio": 28108.99
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Tesla",
+    "year": 2010,
+    "precio_promedio": 21272.82
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Toyota",
+    "year": 1987,
+    "precio_promedio": 23360.09
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Toyota",
+    "year": 1992,
+    "precio_promedio": 21521.39
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Toyota",
+    "year": 1994,
+    "precio_promedio": 26183.75
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Toyota",
+    "year": 1995,
+    "precio_promedio": 25600.94
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Toyota",
+    "year": 1996,
+    "precio_promedio": 23914.19
+  },
+  {
+    "cantidad_modelos": 4,
+    "brand": "Toyota",
+    "year": 1998,
+    "precio_promedio": 24225.23
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Toyota",
+    "year": 1999,
+    "precio_promedio": 26075.56
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Toyota",
+    "year": 2000,
+    "precio_promedio": 24921.07
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Toyota",
+    "year": 2001,
+    "precio_promedio": 25463.6
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Toyota",
+    "year": 2002,
+    "precio_promedio": 25587.56
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Toyota",
+    "year": 2003,
+    "precio_promedio": 23702.67
+  },
+  {
+    "cantidad_modelos": 5,
+    "brand": "Toyota",
+    "year": 2004,
+    "precio_promedio": 25305.39
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Toyota",
+    "year": 2006,
+    "precio_promedio": 22992.21
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Toyota",
+    "year": 2007,
+    "precio_promedio": 26495.78
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Toyota",
+    "year": 2008,
+    "precio_promedio": 26297.1
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Toyota",
+    "year": 2009,
+    "precio_promedio": 23806.03
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Toyota",
+    "year": 2010,
+    "precio_promedio": 20538.77
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Toyota",
+    "year": 2011,
+    "precio_promedio": 23330.71
+  },
+  {
+    "cantidad_modelos": 8,
+    "brand": "Toyota",
+    "year": 2012,
+    "precio_promedio": 23600.67
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Volkswagen",
+    "year": 1985,
+    "precio_promedio": 26650.72
+  },
+  {
+    "cantidad_modelos": 5,
+    "brand": "Volkswagen",
+    "year": 1987,
+    "precio_promedio": 24569.11
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Volkswagen",
+    "year": 1988,
+    "precio_promedio": 24532.38
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Volkswagen",
+    "year": 1989,
+    "precio_promedio": 27833.52
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Volkswagen",
+    "year": 1990,
+    "precio_promedio": 25036.24
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Volkswagen",
+    "year": 1991,
+    "precio_promedio": 29913.7
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Volkswagen",
+    "year": 1993,
+    "precio_promedio": 25114.85
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Volkswagen",
+    "year": 1995,
+    "precio_promedio": 27886.13
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Volkswagen",
+    "year": 1996,
+    "precio_promedio": 28000.03
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Volkswagen",
+    "year": 1997,
+    "precio_promedio": 28671.25
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Volkswagen",
+    "year": 1998,
+    "precio_promedio": 26276.99
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Volkswagen",
+    "year": 2000,
+    "precio_promedio": 22045.44
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Volkswagen",
+    "year": 2001,
+    "precio_promedio": 24466.32
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Volkswagen",
+    "year": 2004,
+    "precio_promedio": 22205.84
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Volkswagen",
+    "year": 2006,
+    "precio_promedio": 26623.44
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Volkswagen",
+    "year": 2007,
+    "precio_promedio": 28581.79
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Volkswagen",
+    "year": 2009,
+    "precio_promedio": 25773.69
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Volkswagen",
+    "year": 2010,
+    "precio_promedio": 26098.97
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Volkswagen",
+    "year": 2011,
+    "precio_promedio": 25140.42
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Volkswagen",
+    "year": 2012,
+    "precio_promedio": 27913.22
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Volvo",
+    "year": 1992,
+    "precio_promedio": 27500.12
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Volvo",
+    "year": 1993,
+    "precio_promedio": 27620.86
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Volvo",
+    "year": 1994,
+    "precio_promedio": 21536.29
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Volvo",
+    "year": 1998,
+    "precio_promedio": 28921.79
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Volvo",
+    "year": 1999,
+    "precio_promedio": 25638.7
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Volvo",
+    "year": 2000,
+    "precio_promedio": 26203.58
+  },
+  {
+    "cantidad_modelos": 3,
+    "brand": "Volvo",
+    "year": 2002,
+    "precio_promedio": 26318.28
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Volvo",
+    "year": 2003,
+    "precio_promedio": 29757.22
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Volvo",
+    "year": 2004,
+    "precio_promedio": 25417.74
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Volvo",
+    "year": 2007,
+    "precio_promedio": 25861.53
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Volvo",
+    "year": 2009,
+    "precio_promedio": 23759.19
+  },
+  {
+    "cantidad_modelos": 2,
+    "brand": "Volvo",
+    "year": 2011,
+    "precio_promedio": 27905.74
+  },
+  {
+    "cantidad_modelos": 1,
+    "brand": "Volvo",
+    "year": 2012,
+    "precio_promedio": 26459.63
+  }
+]
